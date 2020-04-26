@@ -2,3 +2,5 @@
 Network analysis to find the higher-order-structure that consists graph
 
 ## [Watts–Strogatz model](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model)
+
+## https://snap.stanford.edu/higher-order/high_order-netsci-may16a.pdf
