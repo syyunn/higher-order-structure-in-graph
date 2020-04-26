@@ -1,2 +1,4 @@
 # higher-order-structure-in-graph
 Network analysis to find the higher-order-structure that consists graph
+
+## [Watts–Strogatz model](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model)
